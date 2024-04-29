@@ -11,7 +11,7 @@ In my opinion they are a good way for beginner programmers to learn the ropes wh
 enough to prompt thinking and discovery, and gain the satisfaction of all AC green ticks on DMOJ.
 ## Ownership
 The questions are given by the course (Credits: Prof. [FU Chi Wing, Philip](https://www.cse.cuhk.edu.hk/~cwfu/),
-Mr. ZHOU Mingjun, Mr. GE Jiahao) and will not be available online. Solutions are mine and is given in this repository.
+Mr. ZHOU Mingjun, Mr. GE Jiahao) and will not be available online. Solutions are mine and are given in this repository.
 ## Traversing the repository
 Most of the solution files are given here for now. Some of the files are missing, which is my fault of being too lazy.
 ## Executing and testing the code
